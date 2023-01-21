@@ -1,0 +1,17 @@
+{
+    "_comment": "PLEASE STUDY THE README CAREFULLY BEFORE MODIFYING THIS FILE",
+    "channels": {
+        "stable": {
+            "active": true,
+            "latest": 5620
+        },
+        "nightly": {
+            "active": true,
+            "latest": -6001
+        },
+        "bleeding": {
+            "active": false,
+            "latest": null
+        }
+    }
+}
