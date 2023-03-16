@@ -7,7 +7,7 @@
         },
         "nightly": {
             "active": true,
-            "latest": -6002
+            "latest": -6003
         },
         "bleeding": {
             "active": false,
