@@ -3,10 +3,10 @@
     "channels": {
         "stable": {
             "active": true,
-            "latest": 5710
+            "latest": 6000
         },
         "nightly": {
-            "active": true,
+            "active": false,
             "latest": -6004
         },
         "bleeding": {
