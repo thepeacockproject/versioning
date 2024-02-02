@@ -8,10 +8,6 @@
         "nightly": {
             "active": false,
             "latest": -6004
-        },
-        "bleeding": {
-            "active": false,
-            "latest": null
         }
     }
 }
