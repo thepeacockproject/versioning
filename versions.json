@@ -4,10 +4,10 @@
         "stable": {
             "active": true,
             "latest": 7000,
-            "latestString": "7.0.0"
+            "latestString": "7.1.0"
         },
         "nightly": {
-            "active": true,
+            "active": false,
             "latest": -7007,
             "latestString": "7.0.0-alpha.7"
         }
