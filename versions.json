@@ -3,8 +3,8 @@
     "channels": {
         "stable": {
             "active": true,
-            "latest": 7320,
-            "latestString": "7.3.2"
+            "latest": 7340,
+            "latestString": "7.3.4"
         },
         "nightly": {
             "active": false,
