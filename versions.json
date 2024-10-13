@@ -7,7 +7,7 @@
             "latestString": "7.4.1"
         },
         "nightly": {
-            "active": false,
+            "active": true,
             "latest": -8001,
             "latestString": "8.0.0-alpha.1"
         }
