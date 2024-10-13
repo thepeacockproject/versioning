@@ -8,8 +8,8 @@
         },
         "nightly": {
             "active": false,
-            "latest": -7007,
-            "latestString": "7.0.0-alpha.7"
+            "latest": -8001,
+            "latestString": "8.0.0-alpha.1"
         }
     }
 }
